@@ -1,0 +1,12 @@
+.col{
+    -webkit-column-count: 4;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+    background-color: darkgrey;
+    display: -webkit-box;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+}
